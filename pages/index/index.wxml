@@ -1,0 +1,7 @@
+<view class='box1'>
+  <image src='/image/car_aodi.jpg'></image>
+  <text>每周一车</text>
+  <text>每周一款车</text>
+  <text>推荐网址：www.xxx.com.cn</text>
+</view>
+

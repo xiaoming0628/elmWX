@@ -1,0 +1,15 @@
+.box1{
+  background-color: #eee;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+.box1 image{
+  width: 375rpx;
+  height: 375rpx;
+}
+.box1:first-child text{
+  font-weight: bold;
+}
